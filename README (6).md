@@ -1,10 +1,10 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=German-E-Avila-S/Practica4MSF)
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Avila S. German E. 22212250 l22212250@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Erythropoyesis, EDOs, Simulacion numerica, Retroalimentacion Fisiologica, Modelo Matematico
 
 ## Lista de archivos incluidos en el repositorio
 
