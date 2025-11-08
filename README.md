@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=German-E-Avila-S/Practica3MSF)
 
-# Práctica 3: Sistema Musculoesqueletico
+# Práctica 4: Regeneracion de Globulos Rojos
 
 ## Información del estudiante
 Avila S. German E. 22212250 l22212250@tectijuana.edu.mx
